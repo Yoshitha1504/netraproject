@@ -1,0 +1,6 @@
+< action"">
+<Input type"password"><Password>
+<Input type"gender"Gender/labels
+     <Input type "radio" name="gender" id""  placeholder="Enter Fisrt Name"/>
+     <Input type "radio" name="gender" id"" value="other>other
+          
